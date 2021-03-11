@@ -4,9 +4,8 @@ c = Currency
 
 
 doc = """
-This bargaining game involves 2 players. Each demands for a portion of some
-available amount. If the sum of demands is no larger than the available
-amount, both players get demanded portions. Otherwise, both get nothing.
+Este es una aplicacipn de prueba de oTree que consiste
+em que hay jugadores negociando entre si
 """
 
 
